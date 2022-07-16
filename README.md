@@ -4,6 +4,7 @@
 This website is my personal website page, that links a all my handles. It's also a preparations towards my portfolio development.
 ## Demo
 Let's connect 
+![Link](https://twitter.com/)
 
 
 ## Screenshots
@@ -39,8 +40,8 @@ If you have any feedback, please reach out to us at iamasum369@gmail.com
 
 
 ## 🔗 Links
-![FrontEnd Mentor](https://katherinempeterson.com/)
-![linkedin](https://www.linkedin.com/)
+![FrontEnd Mentor](https://github.com/AsumVictor/Frontendmentor-product-card-challenge)
+![linkedin](https://www.linkedin.com/in/victorasumdev/)
 ![twitter](https://twitter.com/)
 
 
