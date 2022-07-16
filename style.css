@@ -80,6 +80,7 @@ article h1{
 
 blockquote{
     transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);;
     padding-left: 15px;
     color: #ff8496;
 }
@@ -178,6 +179,13 @@ p{
     100%{width: 100%;}
 }
 
+@-webkit-keyframes bounce {
+    0%{width: 0%;}
+    30%{width: 100%;}
+    70%{width: 80%;}
+    100%{width: 100%;}
+}
+
 h1 span:hover{
     color: #ff8496;
     transition: .2s;
@@ -214,13 +222,31 @@ article h1:nth-child(3):hover .h1-line{
     70%{width: 15%;}
     100%{width: 20%;}
 }
+@-webkit-keyframes  h1bounce1 {
+    0%{width: 0%;}
+    30%{width: 20%;}
+    70%{width: 15%;}
+    100%{width: 20%;}
+}
 @keyframes h1bounce2 {
     0%{width: 0%;}
     30%{width: 70%;}
     70%{width: 55%;}
     100%{width: 70%;}
 }
+@-webkit-keyframes h1bounce2 {
+    0%{width: 0%;}
+    30%{width: 70%;}
+    70%{width: 55%;}
+    100%{width: 70%;}
+}
 @keyframes h1bounce3 {
+    0%{width: 0%;}
+    30%{width: 80%;}
+    70%{width: 70%;}
+    100%{width: 80%;}
+}
+@-webkit-keyframes h1bounce3 {
     0%{width: 0%;}
     30%{width: 80%;}
     70%{width: 70%;}
