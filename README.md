@@ -9,7 +9,7 @@ Let's connect
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![](screenshot.png)
 
 
 ## Lessons Learned
