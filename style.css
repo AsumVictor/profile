@@ -30,7 +30,7 @@ body{
     border-radius: 0% 0% 0% 100%;
     position: fixed;
 }
-.dark{
+.section. two.dark{
     height: 100%;
     width: 100%;
     border-radius: 0% 0% 0% 0%;
@@ -45,6 +45,12 @@ body{
     background-image: url("backgroupDesign.png");
     background-position: 0px 0px;
     background-size: contain;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
 }
 
 .cover{
@@ -219,4 +225,50 @@ article h1:nth-child(3):hover .h1-line{
     30%{width: 80%;}
     70%{width: 70%;}
     100%{width: 80%;}
+}
+
+.images{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.items{
+    margin-top: -2cm;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.images img{
+      height: 12cm;
+      width: 12cm;
+      filter: saturate(60%);
+
+}
+
+.quote{
+    overflow: hidden;
+    height: 2cm;
+    padding: 20px;
+    text-align: center;
+    border-radius: .4cm;
+    margin-top: -0.6cm;
+    color: #1d378f;
+    position: relative;
+    z-index: 1;
+
+}
+
+.quote p{
+    z-index: 2;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.quote img{
+    position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
 }
