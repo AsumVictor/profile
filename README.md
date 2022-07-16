@@ -36,7 +36,7 @@ Bootstrap
 
 ## Feedback
 
-If you have any feedback, please reach out to us at iamasum369@gmail.com
+If you have any feedback, please reach out to me at iamasum369@gmail.com or +233547113025 on whatsapp or the social media handles
 
 
 ## 🔗 Links
