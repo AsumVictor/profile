@@ -4,7 +4,7 @@
 This website is my personal website page, that links a all my handles. It's also a preparations towards my portfolio development.
 ## Demo
 Let's connect 
-- Live Site URL: [Preview website](https://asumvictor.github.io/portfolio-roadmap/)
+- Live Site URL: [Preview website](https://asumvictor.github.io/profile/)
 
 
 ## Screenshots
